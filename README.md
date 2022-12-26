@@ -1,4 +1,4 @@
-![img.png](.powershell.jpg)
+![img.png](powershell.jpg)
 
 # PowerShell Exercises - IAC Weeks 10 & 11 #
 
