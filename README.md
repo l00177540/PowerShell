@@ -4,7 +4,7 @@ This repository contains the PowerShell Walkthrough code examples and exercises 
 
 ## Software Used
 
-The following versions of software were used:
+The following versions of software were used:   
 Language: PowerShell 7.3 & 5.1   
 Visual Studio Code version 1.7.1.2   
 PowerShell Extension for Visual Studio Code.   
