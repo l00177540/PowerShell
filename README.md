@@ -21,7 +21,7 @@ A .gitignore file was created on GitHub to exclude complied Python (.pyc extensi
 git add .   
 git commit -m "Apply new gitignore file"*       
 
-This did not have any impact on this PowerShell repo as there were no .pyc files present (It is more relevant for the Python repo of this assignment)
+The .gitignore file changes did not have any impact on this PowerShell repo as there were no .pyc files present (It is more relevant for the Python repo of this assignment)
 
 ## Branching
 
