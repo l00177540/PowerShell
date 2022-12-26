@@ -1,3 +1,5 @@
+![img.png](powershell.jpg)
+
 # PowerShell Exercises - IAC Weeks 10 & 11 #
 
 This repository contains the PowerShell Walkthrough code examples and exercises for Weeks 10 to 11 of the Module Infrastructure as Code (IAC) completed as part of the PG Dip in Cloud Computing Semester Block 1 2022.
@@ -12,7 +14,7 @@ OS: Windows or Linux.
 
 ## Repo Description   
 
-The code in the Walkthrough 1 and 2 folders are presented to illustrate the work done in this module to gfain a familiarity of PowerShell which was the primary focus of Report 4 of the IAC module. Folders Walkthrough 3 and 4 are included more for reference, they contain code provided for PowerShell Remote Control and the use of Desired State Configuration (DSC) respectively. The file containing student info in Walkthrough 3 has been redacted to remove any Personal Information.   
+The code in the Walkthrough 1 and 2 folders are presented to illustrate the work done in this module to gain a familiarity of PowerShell which was the primary focus of Report 4 of the IAC module. Folders Walkthrough 3 and 4 are included more for reference, they contain code provided for PowerShell Remote Control and the use of Desired State Configuration (DSC) respectively. The file containing student info in Walkthrough 3 has been redacted to remove any Personal Information.   
 
 The cheatsheet created in the IAC module Report 3 for Git and GitHub was found to be useful for this assignment, and is included in the repo as GIT Cheatsheet.xlsx   
 
