@@ -32,4 +32,4 @@ The .gitignore file changes did not have any impact on this PowerShell repo as t
 
 ## Branching
 
-A Bugfix branch were created in the repo on GitHub. A new file called Test_Bugfix was created to display a test merge of changes from the Bugfix branch to the main branch. Changes made here were then merged back to the local repo. It should be noted that changes could have been equally validly made on the local machine and pushed live to GitHub using the commands ‘Branching Specific Commands’ in the cheatsheet.
+A Bugfix branch was created in the repo on GitHub. A new file called Test_Bugfix was created to display a test merge of changes from the Bugfix branch to the main branch. Changes made here were then merged back to the local repo using a git pull. It should be noted that changes could have been equally validly made on the local machine and pushed live to GitHub using the commands listed under ‘Branching Specific Commands’ in the cheatsheet.
