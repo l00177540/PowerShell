@@ -1,6 +1,6 @@
 ![img.png](powershell.jpg)
 
-# PowerShell Exercises - IAC Weeks 10 & 11 #
+# PowerShell Exercises - IAC Weeks 9 to 12 #
 
 This repository contains the PowerShell Walkthrough code examples and exercises for Weeks 10 to 11 of the Module Infrastructure as Code (IAC) completed as part of the PG Dip in Cloud Computing Semester Block 1 2022.
 
