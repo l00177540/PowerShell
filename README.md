@@ -17,8 +17,8 @@ The cheatsheet created in the IAC module Report 3 for PowerShell is also include
 The code was stored locally on the student’s OneDrive C:\Users\leooc\OneDrive - Atlantic TU\IAC Assignment 2\Powershell and then pushed up to this GitHub repo.
 A .gitignore file was created on GitHub to exclude complied Python (.pyc extension) files. This new file was then pulled to the local repo using git pull. A .gitignore file was created on GitHub to exclude complied Pythion (.pyc extension) files. This new file was then pulled to the local repo using git pull. Because the repo was originally uploaded to GitHub without a gitignore file, the file had to be applied by using these commands:
 
-*git rm -r --cached .
-git add .
+*git rm -r --cached .   
+git add .   
 git commit -m "Apply new gitignore file"*       
 
 This did not have any impact on this PowerShell repo as there were no .pyc files present (It is more relevant for the Python repo of this assignment)
