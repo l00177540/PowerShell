@@ -1,3 +1,4 @@
+# Example of a While loop in PowerShell
 while(($inp = Read-Host -Prompt "Select a command") -ne "Q"){
     switch($inp){
     L {"File will be deleted"}

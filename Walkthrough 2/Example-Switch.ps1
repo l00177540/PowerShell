@@ -1,3 +1,4 @@
+# Example of a Switch Statement in PowerShell
 $day = 4
 switch ( $day )
 {

@@ -1,3 +1,5 @@
+# Example of a simple program in PowerShell
+
 $amount = 111
 $VAT = 0.23
 $result = $amount * $VAT

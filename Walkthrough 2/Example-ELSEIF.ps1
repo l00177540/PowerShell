@@ -1,3 +1,4 @@
+# Example of an ELSE-IF loop in PowerShell
 $day = 0
 if ( $day -eq 0 ) { $result = 'Sunday' }
 elseif ( $day -eq 1 ) { $result = 'Monday' }
