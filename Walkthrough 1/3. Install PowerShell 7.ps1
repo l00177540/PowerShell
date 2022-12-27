@@ -1,4 +1,5 @@
-﻿$MYPARMS = @{
+﻿# Script to install PS 7 using the values in @MYPARMS
+$MYPARMS = @{
  UseMSI = $true
  Quiet = $true
  AddExplorerContextMenu = $true

@@ -1,3 +1,4 @@
+# Creates a PS module called HelloWorld
 $MyModulePath = "C:\users\$env:USERNAME\Documents\PowerShell\Modules\HelloWorld"
 $MyModule = @"
 # HellowWorld.PSM!
